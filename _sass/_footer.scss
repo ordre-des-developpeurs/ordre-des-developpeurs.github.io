@@ -1,0 +1,26 @@
+.bd-footer {
+  padding: 4rem 0;
+  margin-top: 4rem;
+  font-size: 85%;
+  text-align: center;
+  background-color: #f7f7f7;
+}
+
+.bd-footer a {
+  font-weight: 500;
+  color: #55595c;
+}
+
+.bd-footer a:hover {
+  color: #0275d8;
+}
+
+.bd-footer p {
+  margin-bottom: 0;
+}
+
+@media (min-width: 544px) {
+  .bd-footer {
+    text-align: left;
+  }
+}
