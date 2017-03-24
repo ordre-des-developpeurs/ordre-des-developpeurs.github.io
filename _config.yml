@@ -16,7 +16,7 @@
 title: Ordre des développeurs
 email: bodysplash@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  L'ordre est une communauté ouverte visant à améliorer à la fois à faire avancer la profession en nous transformant nous même.
+  L'ordre est une communauté ouverte visant à améliorer à faire avancer la profession en nous transformant nous même.
 baseurl: "/"
 url: ""
 twitter_username: jekyllrb
